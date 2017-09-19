@@ -1,0 +1,5 @@
+name: ColorBrawl
+version: 0.01a
+description: A minigame for my Hypixel application.
+main: me.dysche.colorbrawl.ColorBrawl
+depend: [Cantaloupe]
