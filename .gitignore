@@ -2,8 +2,6 @@
 # Project specific excludes
 #
 
-pom.xml
-
 #
 # Default excludes
 #
